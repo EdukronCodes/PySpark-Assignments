@@ -1,0 +1,81 @@
+customer_id,name,email,city,signup_date,updated_at
+C001,Synthetic Customer 1, buyer1@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C002,Synthetic Customer 2, buyer2@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C003,Synthetic Customer 3, buyer3@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C004,Synthetic Customer 4, buyer4@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C005,Synthetic Customer 5, buyer5@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C006,Synthetic Customer 6, buyer6@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C007,Synthetic Customer 7, buyer7@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C008,Synthetic Customer 8, buyer8@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C009,Synthetic Customer 9, buyer9@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C010,Synthetic Customer 10, buyer10@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C011,Synthetic Customer 11, buyer11@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C012,Synthetic Customer 12, buyer12@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C013,Synthetic Customer 13, buyer13@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C014,Synthetic Customer 14, buyer14@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C015,Synthetic Customer 15, buyer15@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C016,Synthetic Customer 16, buyer16@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C017,Synthetic Customer 17,,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C018,Synthetic Customer 18, buyer18@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C019,Synthetic Customer 19, buyer19@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C020,Synthetic Customer 20, buyer20@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C021,Synthetic Customer 21, buyer21@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C022,Synthetic Customer 22, buyer22@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C023,Synthetic Customer 23, buyer23@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C024,Synthetic Customer 24, buyer24@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C025,Synthetic Customer 25, buyer25@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C026,Synthetic Customer 26, buyer26@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C027,Synthetic Customer 27, buyer27@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C028,Synthetic Customer 28, buyer28@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C029,Synthetic Customer 29, buyer29@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C030,Synthetic Customer 30, buyer30@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C031,Synthetic Customer 31, buyer31@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C032,Synthetic Customer 32, buyer32@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C033,Synthetic Customer 33, buyer33@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C034,Synthetic Customer 34,,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C035,Synthetic Customer 35, buyer35@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C036,Synthetic Customer 36, buyer36@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C037,Synthetic Customer 37, buyer37@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C038,Synthetic Customer 38, buyer38@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C039,Synthetic Customer 39, buyer39@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C040,Synthetic Customer 40, buyer40@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C041,Synthetic Customer 41, buyer41@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C042,Synthetic Customer 42, buyer42@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C043,Synthetic Customer 43, buyer43@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C044,Synthetic Customer 44, buyer44@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C045,Synthetic Customer 45, buyer45@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C046,Synthetic Customer 46, buyer46@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C047,Synthetic Customer 47, buyer47@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C048,Synthetic Customer 48, buyer48@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C049,Synthetic Customer 49, buyer49@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C050,Synthetic Customer 50, buyer50@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C051,Synthetic Customer 51,,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C052,Synthetic Customer 52, buyer52@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C053,Synthetic Customer 53, buyer53@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C054,Synthetic Customer 54, buyer54@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C055,Synthetic Customer 55, buyer55@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C056,Synthetic Customer 56, buyer56@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C057,Synthetic Customer 57, buyer57@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C058,Synthetic Customer 58, buyer58@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C059,Synthetic Customer 59, buyer59@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C060,Synthetic Customer 60, buyer60@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C061,Synthetic Customer 61, buyer61@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C062,Synthetic Customer 62, buyer62@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C063,Synthetic Customer 63, buyer63@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C064,Synthetic Customer 64, buyer64@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C065,Synthetic Customer 65, buyer65@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C066,Synthetic Customer 66, buyer66@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C067,Synthetic Customer 67, buyer67@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C068,Synthetic Customer 68,, Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C069,Synthetic Customer 69, buyer69@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C070,Synthetic Customer 70, buyer70@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C071,Synthetic Customer 71, buyer71@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C072,Synthetic Customer 72, buyer72@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C073,Synthetic Customer 73, buyer73@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C074,Synthetic Customer 74, buyer74@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C075,Synthetic Customer 75, buyer75@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C076,Synthetic Customer 76, buyer76@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z
+C077,Synthetic Customer 77, buyer77@example.test ,mumbai,2026-06-01,2026-06-01T00:00:00Z
+C078,Synthetic Customer 78, buyer78@example.test ,Bengaluru,2026-06-01,2026-06-01T00:00:00Z
+C079,Synthetic Customer 79, buyer79@example.test ,CHENNAI,2026-06-01,2026-06-01T00:00:00Z
+C080,Synthetic Customer 80, buyer80@example.test , Delhi ,2026-06-01,2026-06-01T00:00:00Z

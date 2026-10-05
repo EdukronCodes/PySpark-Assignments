@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "raw_counts": {
+    "customers": 80,
+    "stores": 5,
+    "products": 20,
+    "orders": 300,
+    "order_items": 785,
+    "returns": 30
+  },
+  "invalid_line_additions": 10,
+  "identical_duplicate_additions": 8,
+  "clean_unique_lines": 767,
+  "completed_orders": 270,
+  "booked_revenue": "1829120.00",
+  "accepted_return_units": 30,
+  "return_adjusted_revenue": "1806755.00",
+  "event_rows": 52,
+  "event_unique_ids": 51,
+  "event_batches": 6
+}

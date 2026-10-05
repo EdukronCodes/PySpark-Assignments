@@ -1,0 +1,21 @@
+product_id,product_name,category,list_price,cost_price
+P001,Product 1,Electronics,175,90
+P002,Product 2,Clothing,250,130
+P003,Product 3,Home,325,170
+P004,Product 4,Grocery,400,210
+P005,Product 5,Electronics,475,250
+P006,Product 6,Clothing,550,290
+P007,Product 7,Home,625,330
+P008,Product 8,Grocery,700,370
+P009,Product 9,Electronics,775,410
+P010,Product 10,Clothing,850,450
+P011,Product 11,Home,925,490
+P012,Product 12,Grocery,1000,530
+P013,Product 13,Electronics,1075,570
+P014,Product 14,Clothing,1150,610
+P015,Product 15,Home,1225,650
+P016,Product 16,Grocery,1300,690
+P017,Product 17,Electronics,1375,730
+P018,Product 18,Clothing,1450,770
+P019,Product 19,Home,1525,810
+P020,Product 20,Grocery,1600,850
